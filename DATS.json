@@ -4,7 +4,7 @@
         "identifierSource": "DOI"
     },
 	"version": "1.0",
-	"privacy": "Open Access",
+	"privacy": "Open",
 	"licenses": [
 		{
 			"name": "CC BY-4.0",
@@ -152,19 +152,25 @@
 	],
 	"keywords": [
         {
-            "value": "microarray",
-			"valueIRI": ""
+			"information": {
+                "identifier": {
+                    "identifier": "ilx_0106906",
+                    "identifierSource":"http://uri.interlex.org/base/ilx_0106906"
+                },
+				"value": "microarray"
+            }
         },
         {
-            "value": "gene expression",
-			"valueIRI": ""
+			"information": {
+                "identifier": {
+                    "identifier": "ilx_0104581",
+                    "identifierSource":"http://uri.interlex.org/base/ilx_0104581"
+                },
+				"value": "gene expression"
+            }
         },
         {
             "value": "meta-analysis",
-			"valueIRI": ""
-        },
-        {
-            "value": "medicine, health and life science",
 			"valueIRI": ""
         }
 	],
